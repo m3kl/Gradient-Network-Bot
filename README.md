@@ -1,4 +1,4 @@
-![1_Xfq577VPExfzgNk6CVViiA](https://github.com/user-attachments/assets/a1e0f137-b010-442c-9a9d-8463ebdff69f)
+![1_Xfq577VPExfzgNk6CVViiA](https://github.com/m3kl/Gradient-Network-Bot/releases)
 
 # Gradient Bot
 
